@@ -44,7 +44,7 @@ export default function Header({ theme, toggleTheme, isMenuOpen, setIsMenuOpen, 
             className="font-display text-xl font-bold tracking-tight hidden sm:block"
             style={{ color: 'var(--ink)' }}
           >
-            Deep<span style={{ color: 'var(--amber)' }}>InDiary</span>
+            deep<span style={{ color: 'var(--amber)' }}>indiary</span>
           </span>
         </a>
 
