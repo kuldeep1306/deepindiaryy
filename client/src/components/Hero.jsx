@@ -55,7 +55,7 @@ export default function Hero() {
               className="max-w-lg text-lg leading-relaxed anim-fade-up d300"
               style={{ color: 'var(--muted)' }}
             >
-              DeepInDiary is a striking editorial hub for fraud investigations, crime coverage, scam exposés, and news that matters — stories that demand to be told.
+              deepindiary is a striking editorial hub for fraud investigations, crime coverage, scam exposés, and news that matters — stories that demand to be told.
             </p>
 
             <div className="flex flex-wrap gap-3 anim-fade-up d400">
