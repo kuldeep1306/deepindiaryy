@@ -36,9 +36,26 @@ export default function Hero() {
           {/* Left — Text */}
           <div className="space-y-8">
             {/* Eyebrow */}
-            <div className="section-eyebrow anim-fade-up">
-              Investigative Stories & Hidden Truths
-            </div>
+          <div className="anim-fade-up">
+  <h3
+    className="text-3xl md:text-5l font-black tracking-tight"
+    style={{ color: "var(--ink)" }}
+  >
+    Managed & Published by
+  </h3>
+
+  <a
+    href="https://thekuldeepsays.vercel.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-block mt-4 text-4xl md:text-4xl font-black hover:scale-105 transition-transform duration-300"
+    style={{ color: "var(--amber)" }}
+  >
+    TheKuldeepSays ↗
+  </a>
+
+  <div className="mt-3 h-1 w-32 rounded-full bg-amber-500"></div>
+</div>
 
             {/* Headline */}
             <div className="anim-fade-up d150">
